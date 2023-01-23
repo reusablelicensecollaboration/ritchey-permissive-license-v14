@@ -1,0 +1,27 @@
+Ritchey Permissive License v14:
+
+Subject to the terms of this license, any legal entity who receives material licensed under this license is granted royalty-free, perpetual, non-exclusive permission to do anything with the material which, does not violate any part of this license. Examples include copying, modifying, and sharing the material (verbatim, or modified), provided these actions can be completed in compliance with the license terms.
+
+If any concepts are presented in the material, permissions granted by this license cover the expression of such concepts, but do not extend to the concepts themselves (especially those protected by patents).
+
+Permissions granted by this license do not extend to trademarks included in the material, with the following exception: if sharing the material verbatim can be done in compliance with the terms of the license, it may be done even when trademarks are present.
+
+This license is automatically revoked permanently from the legal entity upon breach of the license terms.
+
+The material is provided "as is", without any warranties, guarantees, or representations. No promises are made of fitness for any particular purpose, suitability for merchantability, non infringement, accuracy, or absence of mistakes. Any use of the material is done at the legal entity's own risk.
+
+In the event of legal action in relation to the material, the maximum compensation to any party is nothing.
+
+When sharing the material, the legal entity is solely responsible for the consequences, and any withstanding obligations to the recipient (including: non disclaimed warranties, non disclaimed guarantees, any representations made).
+
+The material must entirely remain solely under this license.
+
+This license is governed by the laws of the province of British Columbia (as they were on April 21, 2019), and the applicable laws of Canada (as they were on April 21, 2019). Any legal proceedings related to this license may only occur in the courts of British Columbia, or Federal Court of Canada.
+
+The legal entity must be capable of being bound to this entire license, and agrees to be.
+
+If any portion of this license is known by the legal entity to have been previously deemed unenforceable, by a court of law, in applicable jurisdictions, this license cannot be accepted. The legal entity must make an effort to determine this before accepting this license.
+
+If any portions of this license contradict, the later portion shall overrule the previous.
+
+The license text is provided under these terms.
